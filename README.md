@@ -34,7 +34,7 @@
     <img src="https://www.w3schools.com/images/lamp.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">(WORK IN PROGRESS)</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -126,9 +126,17 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* mac
   ```sh
-  npm install npm@latest -g
+  brew install ffmpeg
+  ```
+* linux-ubuntu
+  ```sh
+  sudo apt install ffmpeg
+  ```
+* windows
+  ```sh
+  https://ffmpeg.org/download.html
   ```
 
 ### Installation
@@ -251,7 +259,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]:https://images.unsplash.com/photo-1686726754280-de6be7bd8229?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
